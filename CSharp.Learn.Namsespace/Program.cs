@@ -31,6 +31,7 @@ namespace CSharp.Learn.Namsespace
 
             var so = new StringOperations();
             so.KelimeSayilariniBul(Console.ReadLine());
+            //////////
         }
     }
 }
