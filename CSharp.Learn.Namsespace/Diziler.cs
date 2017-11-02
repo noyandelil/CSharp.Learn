@@ -33,6 +33,8 @@ namespace CSharp.Learn.Namsespace
 
             int[,] cokBoyutluDizi = new int[3, 5];
 
+            ///
+            /// 
 
         }
     }
